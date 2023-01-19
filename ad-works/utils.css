@@ -1,0 +1,110 @@
+.container {
+    padding-left: 4cm;
+    padding-top: 3cm;
+  }
+  
+  
+  .background{
+     background-image: url("bglog.jpg");
+     background-size: cover ;
+  }
+  
+   form {
+     display: flex;
+     flex-direction: column;
+     width: fit-content;
+     align-content: center;
+     border-style: groove;
+     border-width: 5px 5px;
+     border-radius: 25px;
+     border-left-width: 0px;
+     width: 500px;
+     position: relative;
+     top: 1.023cm;
+     left: 25cm;
+     background-color: aliceblue;
+     height: 16.64cm;
+     border-color: transparent;
+   background-color: rgb(242, 227, 248);}
+   input
+   {
+     margin: 1.1em 0em -2.9em 0em; 
+  }
+  
+  
+   .inputb1{
+     
+      padding-left: 2cm;
+      padding-bottom: 1cm;
+    }
+  
+  .container2 {
+  
+      padding-right: 6cm;
+      border-style: groove;
+      border-width: 5px 5px;
+          border-right-width: 5px;
+      border-right-width: 5px;
+      border-right-width: 5px;
+      border-radius: 25px;
+      border-color: transparent;
+          border-top-right-radius: 25px;
+          border-bottom-right-radius: 25px;
+      width: 15.9cm;
+      position: fixed;
+      top: 1.23cm;
+      left: 1.25cm;
+      height: 16.66cm;
+      border-right-width: 0px;
+      padding-left: 3cm;
+      font-size: 1.5cm;
+      background-image: url("leaf.jpg");
+      border-top-right-radius: 0px;
+      border-bottom-right-radius: 0px;
+  
+  }
+  
+  .head{
+     font-size: 1.95cm;
+     font-family: Arial, Helvetica, sans-serif;
+     color: rgb(0, 2, 4);
+  
+  }
+  
+  input[type="checkbox"] {
+     -webkit-appearance: checkbox;
+        -moz-appearance: checkbox;
+             appearance: checkbox;
+     display: inline-block;
+     width: auto;
+   }
+   
+  .content {
+     font-size: 0.39;
+     color: darkgrey;
+     padding-top: 0.5cm;
+  }
+  button:hover {
+     cursor: cell;
+     background-color: cyan;
+     border-color: black ;
+  
+  }
+  
+  
+   button{
+     padding: 0.55em;
+     border-color: aliceblue;
+     background-color: lawngreen;
+     border-radius: 16px;
+    padding-left: 0.3cm;
+    padding-right: 0.3cm;
+    padding-top: 0.3cm;
+    padding-bottom: 0.3cm;
+   }
+  
+   .head1{
+     color: blanchedalmond;}
+    .foot{
+        
+    }
